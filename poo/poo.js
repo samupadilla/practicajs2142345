@@ -34,10 +34,6 @@ console.log(typeof(o3));
 console.log(obfunction.nombre);
 console.log(obfunction.nombreCompleto());
 
-
-
-
-
 //2da forma para crear objetos en JS
 //JSON formato clave:valor
 var obj={
